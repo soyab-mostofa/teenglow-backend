@@ -14,4 +14,4 @@ services:
       PAYLOAD_SECRET: ${PAYLOAD_SECRET}
       PAYLOAD_CONFIG_PATH: dist/payload.config.js
     ports:
-      - "3000:3000"
+      - "8000:8000"
